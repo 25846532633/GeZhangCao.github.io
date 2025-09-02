@@ -1,67 +1,14 @@
 ---
 permalink: /
-title: "曹格章的个人学术主页"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 曹格章
+I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-地址：广东省佛山市南海区广云路33号佛山大学  
-手机：134-1310-8933  
-邮箱：2076387719@qq.com  
-初试总分：327  
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-## 关于我
-
-我是佛山大学计算机科学与技术专业的本科生，预计于2025年6月毕业。我的GPA为4.01/5.0，本科综合成绩排名第1（前1%）。我拥有扎实的计算机科学基础，并在多个项目中积累了丰富的实践经验，特别是在深度学习、自然语言处理和系统设计方面。
-
-## 教育背景
-
-**2021.09-2025.06**  
-佛山大学 计算机科学与技术（本科）  
-主修课程：数据结构，数据库系统概论，操作系统原理，计算机网络原理，程序设计基础，编译原理等  
-GPA：4.01/5.0  
-本科综合成绩排名：1/71 (1%)
-
-## 项目经历
-
-### 基于OAuth2.1模式的授权桥梁登录中介托管平台  
-技术栈：OAuth2.1, Ant Design Vue, Redis, MySQL, SAS  
-- 构建统一的身份认证和授权服务，降低企业和个人的接入成本，提升数据安全性。  
-- 负责前端页面设计与实现，使用Ant Design Vue和Axios构建用户界面并实现前后端数据交互。  
-- 使用Redis缓存授权令牌，优化系统性能，实现令牌自动刷新机制。  
-- 实现OAuth2.1授权流程，设计并开发授权码模式，集成PKCE增强安全性。  
-
-### 基于深度学习的肝癌辅助诊断系统设计与实现  
-技术栈：PyTorch, VGG13, ResNet, DenseNet  
-- 设计并实现深度学习模型，用于自动分析超声影像中的特征信息，辅助肝癌早期诊断。  
-- 采用高斯噪声和直方图均衡化技术增强数据，提升模型泛化能力和性能。  
-- 利用余弦退火机制和耐心值机制进行训练，模型在训练集上达到0.855909的准确率。  
-- 通过模型调优，将训练损失从0.690213降低至0.528502，显著减少预测误差。  
-
-### 基于NLP的医学知识图谱构建与智能检索系统设计与实现  
-技术栈：Neo4j, GCN, Cypher, MongoDB, PyTorch, Aho-Corasick自动机  
-- 构建医学知识图谱，自动提取和组织医学知识，提供基于知识图谱的语义检索。  
-- 利用Aho-Corasick自动机构建关键词索引，从海量数据中自动提取医学知识。  
-- 通过Cypher语言查询Neo4j，精准识别医学术语和建立实体关系。  
-- 系统检索准确率超过90%，检索速度达到毫秒级。  
-
-## 校园经历与荣誉
-
-- 2021-2022、2022-2023、2023-2024 专业综测第一名，荣获校级一等奖学金  
-- 2021-2022 三好学生标兵、优秀学生干部、优秀学生团干部  
-- 2022.2 第十三届蓝桥杯广东赛区Java国家级二等奖  
-- 2022.4 大学生创新创业训练计划项目“I-wear智能衣服”获得国家级推荐（第二成员）  
-- 2022.8 第八届互联网+“建行杯”中国国际创新大学生创新创业大赛国家二等奖  
-- 2023.8 中国计算机设计大赛国赛三等奖  
-- 2024.4 第十五届蓝桥杯广东赛区C/C++省级三等奖  
-- 英语水平：CET-4（523）、CET-6（612）、雅思7.5  
-
-## 联系方式
-
-如果您对我的项目或经历感兴趣，欢迎通过以下方式联系我：  
-- 邮箱：2076387719@qq.com  
-- 手机：134-1310-8933  
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
