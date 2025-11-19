@@ -11,4 +11,4 @@ I am a first-year graduate student at Chongqing University of Posts and Telecomm
 
 Previously, I graduated with outstanding academic performance and actively participated in various innovation competitions and projects, which strengthened my practical skills and collaborative spirit. I am now looking forward to exploring deeper into AI and machine learning during my graduate studies.
 
-Feel free to reach out to me via email at 2076387719@qq.com.
+Feel free to reach out to me via email at 2076387719@qq.com
